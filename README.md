@@ -27,8 +27,27 @@ ML solutions for live and streaming media.
 *   [Google MediaPipe](https://github.com/google/mediapipe)
 *   [Face Mesh Py colab](https://google.github.io/mediapipe/solutions/face_mesh.html#resources)
 *   [Python Solution API](https://google.github.io/mediapipe/solutions/face_mesh.html)
-*   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
-*   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
+*   [ZegoExpress-Video SDK](https://doc-en.zego.im/article/1030)
+*   [Agora SDK](https://docs.agora.io/en/Video/code-samples?platform=All%20Platforms)
+
+## React video chat
+*   [call-object-react](https://github.com/daily-demos/call-object-react)
+*   [@videosdk.live/react-sdk](https://docs.videosdk.live/docs/realtime-communication/sdk-reference/react-sdk/setup/)
+*   [Video SDK React JS RTC](https://github.com/arjun-kava/videosdk-react-sdk-tutorial-example)
+*   [zego-express-demo-web](https://github.com/zegoim/express-demo-web)
+*   [Twilio Video (WebRTC) RN](https://github.com/blackuy/react-native-twilio-video-webrtc)
+*   [twilio-video](https://www.freecodecamp.org/news/building-video-call-app-in-react-native/)
+*   [react-webcam](https://www.npmjs.com/package/react-webcam)
+*   [android-face-filter-banuba-sdk](https://www.infoq.com/articles/android-face-filter-banuba-sdk/)
+*   [flutter_video_call_demo](https://github.com/flutter-devs/flutter_video_call_demo)
+*   [flutter camera-camera](https://github.com/gabuldev/camera_camera)
+
+## Services генератор шаблонов для чатов
+*   [Video Chat App](https://www.instamobile.io/app-templates/video-chat-app-in-react-native/)
+
+## Services trial - Dashboard
+*   [Zego](https://console.zego.im/dashboard)
+
 ## Unity
 *   [Alchera Face Hand Detection](https://github.com/AlcheraInc/Alchera-Face-Hand-Detection-Unity)
 *   [Live Capture](https://docs.unity3d.com/Packages/com.unity.live-capture@1.0/manual/index.html)
