@@ -23,6 +23,24 @@ ML solutions for live and streaming media.
 
 [Сборка] React-native + Next.js + SDK. Чтобы запустить web - yarn dev 
 *   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
+*   [MediaPipe in JavaScript](https://google.github.io/mediapipe/getting_started/javascript.html)
+*   [Google MediaPipe](https://github.com/google/mediapipe)
+*   [Face Mesh Py colab](https://google.github.io/mediapipe/solutions/face_mesh.html#resources)
+*   [Python Solution API](https://google.github.io/mediapipe/solutions/face_mesh.html)
+*   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
+*   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
+## Unity
+*   [Alchera Face Hand Detection](https://github.com/AlcheraInc/Alchera-Face-Hand-Detection-Unity)
+*   [Live Capture](https://docs.unity3d.com/Packages/com.unity.live-capture@1.0/manual/index.html)
+*   [ArmaxMD AR SDK](https://github.com/armaxst)[github demo](https://developer.maxst.com/MD/tutorial)
+*   [Unity Learn](https://learn.unity.com/)
+*   [Unity Face Capture](https://apps.apple.com/ua/app/unity-face-capture/id1544159771?l=ru)
+*   [OpenCV Unity code](https://medium.com/geekculture/face-detection-in-unity-using-opencv-2df17a9e8ecd)[source](https://github.com/EnoxSoftware/OpenCVForUnity/blob/master/Assets/OpenCVForUnity/Examples/MainModules/objdetect/FaceDetectionExample/FaceDetectionWebCamTextureExample.cs)
+## Twilio API
+*   [Twilio](https://console.twilio.com/us1/develop/video/manage/video-credentials?frameUrl=%2Fconsole%2Fvideo%2Fproject%2Fapi-keys%3Fx-target-region%3Dus1)
+
+
+
 
 
 ## ML solutions in MediaPipe
