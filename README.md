@@ -19,6 +19,12 @@ ML solutions for live and streaming media.
 ![ready_to_use.png](docs/images/ready_to_use_small.png)                                                             | ![open_source.png](docs/images/open_source_small.png)
 ***Ready-to-use solutions***: *Cutting-edge ML solutions demonstrating full power of the framework*            | ***Free and open source***: *Framework and solutions both under Apache 2.0, fully extensible and customizable*
 
+## Решение команды LeaderStat - Видеомаски для видеозвонков.
+
+[Сборка] React-native + Next.js + SDK. Чтобы запустить web - yarn dev 
+*   [SDK MediaPipe](https://codepen.io/mediapipe/pen/RwGWYJw)
+
+
 ## ML solutions in MediaPipe
 
 Face Detection                                                                                                                 | Face Mesh                                                                                                       | Iris                                                                                                      | Hands                                                                                                      | Pose                                                                                                      | Holistic
